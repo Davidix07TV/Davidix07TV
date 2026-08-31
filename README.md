@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0&height=220&section=header&text=Davidix&fontSize=80&fontColor=FF69B4&animation=twinkling">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0&height=220&section=header&text=Davidix&fontSize=80&fontColor=EF93C4&animation=twinkling">
-    <img alt="Davidix Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0&height=220&section=header&text=Davidix&fontSize=80&fontColor=FF69B4&animation=twinkling" width="100%">
+    <img alt="Davidix Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0&height=220&section=header&text=Davidix&fontSize=80&fontColor=FFA500&animation=twinkling" width="100%">
   </picture>
 
   <br />
@@ -14,7 +14,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+%26+Mobile+Developer;Building+Nest+Music+%26+Web+Apps;Crafting+UI+with+React+%2B+Tailwind+CSS;Exploring+AI+Development+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Frontend+%26+Mobile+Developer;Building+Nest+Music+%26+Web+Apps;Crafting+UI+with+React+%2B+Tailwind+CSS;Exploring+AI+Development+Tools" alt="Typing SVG" />
   </a>
 
   <br /><br />
