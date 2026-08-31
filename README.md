@@ -11,7 +11,7 @@
 # Hey there, I'm Davidix 👋
 
 <a href="https://github.com/Davidix07TV">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;C%2B%2B+Developer+%7C+Problem+Solver;Building+projects+one+line+at+a+time;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;C%2B%2B+Developer+%7C+Problem+Solver;Building+projects+one+line+at+a+time;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG">
 </a>
 
 <br><br>
