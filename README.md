@@ -84,17 +84,20 @@
   <br />
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidix07TV&theme=custom&background=0d1117&border=EF93C4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&sideNums=EF93C4&currStreakLabel=FF69B4&sideLabels=EF93C4&dates=F8BBD0" alt="Davidix GitHub Streak" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Davidix07TV&show_icons=true&theme=custom&bg_color=0d1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=EF93C4" alt="Davidix Stats" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=Davidix07TV&background=0d1117&border=EF93C4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&sideNums=EF93C4&currStreakLabel=FF69B4&sideLabels=EF93C4&dates=F8BBD0" alt="Davidix GitHub Streak" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Davidix07TV&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=EF93C4" alt="Davidix Stats" width="49%" />
   </p>
-  
+
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidix07TV&theme=custom&bg_color=0d1117&color=FF69B4&line=EF93C4&point=F8BBD0&area=true&hide_border=false" alt="Davidix Activity Graph" width="98%" />
-  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidix07TV&layout=compact&langs_count=8&bg_color=0d1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=EF93C4" alt="Davidix Top Languages" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davidix07TV&theme=github_dark" alt="Davidix Contribution Graph" width="49%" />
+  </p>
+
   <br /><br />
 
-  <!-- Contributions Snake Animation -->
+  <!-- Contributions Snake Animation (regenerated automatically by .github/workflows/snake.yml) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidix07TV/Davidix07TV/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davidix07TV/Davidix07TV/output/github-contribution-grid-snake.svg">
